@@ -1,0 +1,16 @@
+/*
+ * Escribe una programa que muestre tu nombre por pantalla.
+ */
+package ej1;
+
+/**
+ *
+ * @author Steven Dual
+ */
+public class Ej1 {
+
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Bryan Steven Duque Alas");
+    }
+}
